@@ -1,0 +1,40 @@
+# Collecte et traitement des données
+requests
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+statsmodels
+# Streaming et cache
+redis
+
+# API Web
+fastapi
+uvicorn
+pydantic
+
+# MLflow pour le tracking
+mlflow
+
+# Visualisation
+plotly
+matplotlib
+seaborn
+
+# Tests
+pytest
+pytest-asyncio
+
+# Utilitaires
+python-dotenv
+pydantic-settings
+
+# Développement
+jupyter
+ipykernel
+
+# Pour Docker et déploiement
+gunicorn
+
+yfinance
